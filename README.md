@@ -33,14 +33,14 @@ two types of control only, Who is Pir sensor or By Bluetooth Module.
 
 # Components
 STM32F401CC
-LCD
-Keypad
-Motor
-PIR sensor
-Buzzer
-LED
-Wifi Module
-LM35
+• LCD
+• Keypad
+• Motor
+• PIR sensor
+• Buzzer
+• LED
+• Wifi Module
+• LM35
 
 # Software Architecture
 MCAL:
