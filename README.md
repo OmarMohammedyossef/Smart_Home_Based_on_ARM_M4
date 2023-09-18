@@ -3,9 +3,9 @@ The Smart Home System is an embedded system developed using the Stm32f401cc.
 It allows users to set password at first time and control to open the door if user enter password true and button can close the door.
 Then there are controller control on the Hall and rooms throw Bluetooth module control on led and air condition of every room and hall. 
 # Table of Contents
- Description
- Components
- Software Architecture
+1- Description
+2- Components
+3- Software Architecture
 # Description
 First Part:
 It is our system now. Smart home, In the basic needs, The first 
